@@ -1,6 +1,7 @@
 # Desafio-Dio
-Importância das variáveis : Quais variáveis influenciam a decisão do modelo.
 # 🛡️ Detecção de Fraudes em Cartão de Crédito com XGBoost
+
+Importância das variáveis : Quais variáveis influenciam a decisão do modelo.
 
 Este projeto foi desenvolvido como um desafio prático do Bootcamp para explorar as áreas de Ciência de Dados e Cibersegurança Bancária.
 
